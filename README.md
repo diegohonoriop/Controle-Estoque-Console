@@ -15,4 +15,4 @@ Este é o meu primeiro sistema completo de controle e gerenciamento de estoque p
 *   **Remover Itens:** Exclusão de peças do gerenciamento.
 
 ---
-*Projeto desenvolvido por Diego de Souza para fins de estudo e portfólio de transição de carreira em TI.*
+*Projeto desenvolvido por Diego Paulino para fins de estudo e portfólio de transição de carreira em TI.*
